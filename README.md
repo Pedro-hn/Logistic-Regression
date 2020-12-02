@@ -8,5 +8,5 @@
 ## About me
 Atualmente sou aluno da graduação em Estatística pela Universidade Federal de Minas Gerais
 
-
+**Linguagens:**
 <code><img height="20" src="https://github.com/Pedro-hn/Pedro-hn/blob/main/images.jpg"></code>
