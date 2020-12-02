@@ -1,6 +1,6 @@
 # Pedro Henrique Ribeiro dos Reis 📈
 
-![datasicence]()
+![datasicence](https://github.com/Pedro-hn/Pedro-hn/blob/main/conheca-agora-9-aplicacoes-de-data-science-nos-dias-de-hoje-1024x575.jpeg)
 <!--
 **Pedro-hn/Pedro-hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
